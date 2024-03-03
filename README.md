@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fatechapp)](https://github.com/Fatechapp/github-profile-trophy)
+
+## Social Media
+- Instagram  : @fatecharizq
+- Website    : (https://fatechapp.com)
