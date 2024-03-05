@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ## Social Media
 - Instagram  : @fatecharizq
 - Website    : (https://fatechapp.com)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mzf11125&" alt="fatechapp" /></p>
